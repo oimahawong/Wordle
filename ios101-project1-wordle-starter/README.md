@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-![Simulator Screen Recording - iPhone 14 Pro - 2023-09-22 at 22 35 42](https://github.com/oimahawong/Wordle/assets/124403539/0c2fac46-8874-415d-981d-2f9b21b15de0)
+![Simulator Screen Recording - iPhone 14 Pro - 2023-09-23 at 08 59 23](https://github.com/oimahawong/Wordle/assets/124403539/c84f2825-4c0a-426c-b187-7322bc530c3c)
 
 
 
