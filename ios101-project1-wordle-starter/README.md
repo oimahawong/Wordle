@@ -2,7 +2,7 @@
 
 Submitted by: **Oi Mahawong**
 
-**Name of your app** is an app that ... [TODO] 
+**Name of your app** is an app that is a word guessing game. 
 
 Time spent: **5** hours spent in total
 
